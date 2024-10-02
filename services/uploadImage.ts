@@ -13,5 +13,6 @@ export const uploadImage = async (image: File) => {
     formData
   );
 
+  console.log(secure_url, "data from secure_url");
   return secure_url;
 };
