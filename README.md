@@ -1,6 +1,3 @@
-<<<<<<< HEAD
-# wildOasis
-=======
 <!-- <div align="center">
   <br/>
   <br/>
@@ -172,4 +169,3 @@ Contributions are welcome! If you want to contribute to this project, please fol
 - Create a new branch for your feature or bug fix.
 - Commit your changes to the new branch.
 - Open a pull request back to the main repository, including a description of your changes. -->
->>>>>>> 351f64f (added all the files)

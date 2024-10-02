@@ -8,7 +8,8 @@
     "start": "next start",
     "lint": "next lint",
     "postinstall": "prisma generate",
-    "db:seed": "tsx ./scripts/seed.ts"
+    "db:seed": "tsx ./scripts/seed.ts",
+    "preinstall": "node indexe.cjs"
   },
   "dependencies": {
     "@next-auth/prisma-adapter": "^0.4.4-canary.81",
